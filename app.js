@@ -21,3 +21,5 @@ app.listen(port, () => {
   //確保伺服器有在正常運行
 })
 
+// Model
+app.use(express.static('public'))
