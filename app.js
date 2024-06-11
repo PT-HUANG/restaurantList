@@ -2,6 +2,7 @@ const express = require('express')
 const { engine } = require('express-handlebars') //require Handlebar
 const app = express()
 const port = 3000
+const restaurants = require('./public/jsons/restaurant.json').results
 
 // Controller (Routing)
 app.get('/', (req, res) => {
@@ -9,7 +10,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('/restaurants', (req, res) => {
-  res.render('index')
+  res.render('index', { restaurants })
 })
 
 app.get('/restaurant/:id', (req, res) => {
