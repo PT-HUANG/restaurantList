@@ -4,9 +4,10 @@
 
 This is a web application built by Node.js and Express. Users can explore restaurants which they are interested in and browse detail information of each restaurant. 
 
-![Untitled]("C:/Users/qwe15/OneDrive/Desktop/restaurant_1.png")
+![restaurant_1](https://github.com/PT-HUANG/restaurantList/assets/125849885/33521440-c559-4437-969c-b67ef2bf71ed)
 
-![Untitled]("C:/Users/qwe15/OneDrive/Desktop/restaurant_2.png")
+![restaurant_2](https://github.com/PT-HUANG/restaurantList/assets/125849885/0970aed0-9a12-4c2f-9492-f081c88af6ab)
+
 
 ## Feature
 
