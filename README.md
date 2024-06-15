@@ -4,9 +4,9 @@
 
 This is a web application built by Node.js and Express. Users can explore restaurants which they are interested in and browse detail information of each restaurant. 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ff6b3ae4-dbe5-4580-b0dc-2fc58e094a34/f260ae30-a73c-4d3c-a5b4-fd3aebadb2a7/Untitled.png)
+![Untitled]("C:/Users/qwe15/OneDrive/Desktop/restaurant_1.png")
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ff6b3ae4-dbe5-4580-b0dc-2fc58e094a34/362a53d8-61b0-4193-af1d-ab8d203b3b0a/Untitled.png)
+![Untitled]("C:/Users/qwe15/OneDrive/Desktop/restaurant_2.png")
 
 ## Feature
 
