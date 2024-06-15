@@ -1,5 +1,5 @@
 const express = require('express')
-const { engine } = require('express-handlebars') //require Handlebar
+const { engine } = require('express-handlebars') //require Handlebars
 const app = express()
 const port = 3000
 const restaurants = require('./public/jsons/restaurant.json').results
@@ -10,7 +10,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('/restaurants', (req, res) => {
-  const keyword = req.query.search
+  const keyword = req.query.search?.trim()
   const matchedRestaurants = keyword ? restaurants.filter((res) =>
     Object.values(res).some((property) => {
       if (typeof property === 'string') {
