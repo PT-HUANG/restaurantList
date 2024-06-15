@@ -1,7 +1,5 @@
 # 我的餐廳清單
 
----
-
 This is a web application built by Node.js and Express. Users can explore restaurants which they are interested in and browse detail information of each restaurant. 
 
 ![restaurant_1](https://github.com/PT-HUANG/restaurantList/assets/125849885/33521440-c559-4437-969c-b67ef2bf71ed)
@@ -15,8 +13,6 @@ This is a web application built by Node.js and Express. Users can explore restau
 - Checking specific restaurant detail
 - Searching function with keyword
 
----
-
 ## Environment Setup
 
 - npm@10.7.0
@@ -26,8 +22,6 @@ This is a web application built by Node.js and Express. Users can explore restau
 - express-handlebars@7.1.2
 - Bootstrap@5.3.3
 - Font Awesome@6.5.2
-
----
 
 ## Installation & Execution
 
