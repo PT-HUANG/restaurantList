@@ -31,13 +31,13 @@ This is a web application built by Node.js and Express. Users can explore restau
 $ git clone https://github.com/PT-HUANG/restaurantList.git
 ```
 
-1. Move to the restaurantList directory
+2. Move to the restaurantList directory
 
 ```
 $ cd restaurant
 ```
 
-1. Install all packages if you don’t have
+3. Install all packages if you don’t have
 
 ```
 $ npm install -g npm
@@ -47,16 +47,16 @@ $ npm install -g express
 $ npm install express-handlebars
 ```
 
-1. Start up server if you just want to visit this website
+4. Start up server if you just want to visit this website
 
 ```
 $ npm run start
 ```
 
-1. Start up server if you want to modify and check real-time changes
+5. Start up server if you want to modify and check real-time changes
 
 ```
 $ npm run dev
 ```
 
-1. Please visit [http://localhost:3000](http://localhost:3000/) to start using the program.
+6. Please visit [http://localhost:3000](http://localhost:3000/) to start using the program.
