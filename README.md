@@ -40,8 +40,6 @@ $ cd restaurant
 3. Install all packages if you don’t have
 
 ```
-$ npm install -g npm
-$ npm init
 $ npm install -g nodemon
 $ npm install -g express
 $ npm install express-handlebars
